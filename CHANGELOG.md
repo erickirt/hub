@@ -1,3 +1,9 @@
+## v0.9.3 (2026-06-04)
+
+### Fix
+
+- **observability**: switch tracing to JSON formatter (#103)
+
 ## v0.9.2 (2026-06-01)
 
 ### Fix
